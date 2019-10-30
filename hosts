@@ -4,6 +4,7 @@
 # Mobile Apps.
 127.0.0.1 a.applvn.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 adservice.google.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.adjust.com
 127.0.0.1 b-api.facebook.com
@@ -16,6 +17,7 @@
 127.0.0.1 dev.virtualearth.net
 127.0.0.1 dev503.prn2.facebook.com
 127.0.0.1 dock.inmobi.com
+127.0.0.1 e.crashlytics.com
 127.0.0.1 event-collector-etc.appspot.com
 127.0.0.1 expresswifi.com
 127.0.0.1 fabric.io
@@ -43,6 +45,7 @@
 127.0.0.1 schemas.applovin.com
 127.0.0.1 sdkm.w.inmobi.com
 127.0.0.1 sdktm.w.inmobi.com
+127.0.0.1 settings.crashlytics.com
 127.0.0.1 ssv.admost.com
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 tech.yandex.com
@@ -156,7 +159,6 @@
 127.0.0.1 incoming.telemetry.mozilla.org
 # CCleaner
 127.0.0.1  analytics.ff.avast.com
-127.0.0.1  download.ccleaner.com
 127.0.0.1  ipm-provider.ff.avast.com
 127.0.0.1  license.piriform.com
 127.0.0.1  shepherd.ff.avast.com.piriform.com

@@ -168,6 +168,8 @@
 # Other (Frequent matches).
 127.0.0.1 a.republer.com
 127.0.0.1 acales.ru
+127.0.0.1 adnxs.com
+127.0.0.1 advertising.com
 127.0.0.1 am15.net
 127.0.0.1 betnetmed.advertserve.com
 127.0.0.1 bidder.criteo.com
@@ -186,10 +188,13 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 cp.cloudflare.com
 127.0.0.1 exaccess.ru
+127.0.0.1 ezoic.net
 127.0.0.1 firebaseremoteconfig.googleapis.com
+127.0.0.1 g.ezoic.net
 127.0.0.1 gj.mmstat.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 i.addmob.info
+127.0.0.1 Ib.adnxs.com
 127.0.0.1 jsc.marketgid.com
 127.0.0.1 jsc.traffic-media.co
 127.0.0.1 jsn.24smi.net

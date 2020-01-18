@@ -1,6 +1,20 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 
+# AliExpress - TEST
+127.0.0.1 wvcfg.alicdn.com
+127.0.0.1 ossgw.alicdn.com
+127.0.0.1 s.click.aliexpress.com
+127.0.0.1 d.aliexpress.com
+127.0.0.1 pg.aliexpress.com
+127.0.0.1 gw.api.alibaba.com
+127.0.0.1 a.aliexpress.com
+127.0.0.1 h5.m.taobao.com
+127.0.0.1 chart.googleapis.com
+127.0.0.1 h-adashx.ut.taobao.com
+127.0.0.1 favorite.taobao.com
+127.0.0.1 g.alicdn.com
+
 # MTS
 127.0.0.1 blocked.mts.ru
 127.0.0.1 moipodpiski.ssl.mts.ru

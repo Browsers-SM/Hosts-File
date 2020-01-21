@@ -70,6 +70,7 @@
 127.0.0.1 www.googletagservices.com
 
 # Yandex
+127.0.0.1 aflt.market.yandex.ru
 127.0.0.1 api.lbs.yandex.net
 127.0.0.1 awaps.yandex.net
 127.0.0.1 bs-meta.yandex.ru

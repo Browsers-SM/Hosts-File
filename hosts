@@ -1,19 +1,6 @@
 127.0.0.1       localhost
 ::1             ip6-localhost
 
-# AliExpress - TEST
-127.0.0.1 wvcfg.alicdn.com
-127.0.0.1 ossgw.alicdn.com
-127.0.0.1 s.click.aliexpress.com
-127.0.0.1 d.aliexpress.com
-127.0.0.1 pg.aliexpress.com
-127.0.0.1 gw.api.alibaba.com
-127.0.0.1 a.aliexpress.com
-127.0.0.1 h5.m.taobao.com
-127.0.0.1 chart.googleapis.com
-127.0.0.1 h-adashx.ut.taobao.com
-127.0.0.1 favorite.taobao.com
-
 # MTS
 127.0.0.1 blocked.mts.ru
 127.0.0.1 moipodpiski.ssl.mts.ru
@@ -30,11 +17,22 @@
 127.0.0.1 api.flocktory.com
 
 # AliExpress
+127.0.0.1 a.aliexpress.com
 127.0.0.1 ali.pub
 127.0.0.1 aliexpress-internet.ru
 127.0.0.1 alipromo.com
 127.0.0.1 alishop2.ru
 127.0.0.1 alitems.com
+127.0.0.1 chart.googleapis.com
+127.0.0.1 d.aliexpress.com
+127.0.0.1 favorite.taobao.com
+127.0.0.1 gw.api.alibaba.com
+127.0.0.1 h-adashx.ut.taobao.com
+127.0.0.1 h5.m.taobao.com
+127.0.0.1 ossgw.alicdn.com
+127.0.0.1 pg.aliexpress.com
+127.0.0.1 s.click.aliexpress.com
+127.0.0.1 wvcfg.alicdn.com
 
 # Google / Doubleclick.Net
 127.0.0.1 ad-apac.doubleclick.net
@@ -72,14 +70,21 @@
 127.0.0.1 www.googletagservices.com
 
 # Yandex
+127.0.0.1 api.lbs.yandex.net
 127.0.0.1 awaps.yandex.net
+127.0.0.1 bs-meta.yandex.ru
 127.0.0.1 bs.yandex.ru
 127.0.0.1 button.blogs.yandex.net
+127.0.0.1 cid.yandex.net
+127.0.0.1 clck.yandex.ru
 127.0.0.1 informer.yandex.ru
 127.0.0.1 kiks.yandex.ru
 127.0.0.1 mc.yandex.ru
+127.0.0.1 mobile.yamobile.yandex.net
 127.0.0.1 mobile.yandexadexchange.net
+127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 suggest.yandex.ru
+127.0.0.1 tech.yandex.com
 127.0.0.1 wi.yandex.net
 127.0.0.1 yandexadexchange.net
 
@@ -133,13 +138,11 @@
 127.0.0.1 adservice.google.com
 127.0.0.1 advertising.com
 127.0.0.1 am15.net
-127.0.0.1 api.lbs.yandex.net
 127.0.0.1 app-measurement.com
 127.0.0.1 b-api.facebook.com
 127.0.0.1 betnetmed.advertserve.com
 127.0.0.1 bidder.criteo.com
 127.0.0.1 bitrix.info
-127.0.0.1 bs-meta.yandex.ru
 127.0.0.1 c.tbex.ru
 127.0.0.1 cdn-api.admost.com
 127.0.0.1 cdn.adtags.pro
@@ -149,8 +152,6 @@
 127.0.0.1 cdn.sendpulse.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn2.inner-active.mobi
-127.0.0.1 cid.yandex.net
-127.0.0.1 clck.yandex.ru
 127.0.0.1 code.directadvert.ru
 127.0.0.1 config.inmobi.cn
 127.0.0.1 counter.24smi.info
@@ -203,7 +204,6 @@
 127.0.0.1 mediametrics.ru
 127.0.0.1 metrics.cloudflarebolt.com
 127.0.0.1 mobile-static.adsafeprotected.com
-127.0.0.1 mobile.yamobile.yandex.net
 127.0.0.1 native.propellerclick.com
 127.0.0.1 news.smi2.ru
 127.0.0.1 openstat.net
@@ -233,7 +233,6 @@
 127.0.0.1 static.h-bid.com
 127.0.0.1 sync-eu.connectad.io
 127.0.0.1 target.smi2.net
-127.0.0.1 tech.yandex.com
 127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 torvind.com
 127.0.0.1 tredman.com

@@ -69,8 +69,10 @@
 127.0.0.1 www.googletagservices.com
 
 # Yandex
+127.0.0.1 adlib-mock.yandex.net
 127.0.0.1 aflt.market.yandex.ru
 127.0.0.1 api.lbs.yandex.net
+127.0.0.1 appmetrica.yandex.com
 127.0.0.1 awaps.yandex.net
 127.0.0.1 bs-meta.yandex.ru
 127.0.0.1 bs.yandex.ru
@@ -82,6 +84,9 @@
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mobile.yamobile.yandex.net
 127.0.0.1 mobile.yandexadexchange.net
+127.0.0.1 mobileproxy-test.passport.yandex.net
+127.0.0.1 mobileproxy-yateam.passport.yandex.net
+127.0.0.1 sba.yandex.net
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 suggest.yandex.ru
 127.0.0.1 tech.yandex.com
@@ -119,16 +124,16 @@
 # Programs
 # Air Explorer (Адрес автообновления).
 127.0.0.1 164.132.99.166
-127.0.0.1 51.254.113.156
 127.0.0.1 166.ip-164-132-99.eu
+127.0.0.1 51.254.113.156
 127.0.0.1 aircloudtools.com
 # Mozilla Telemetry
 127.0.0.1 incoming.telemetry.mozilla.org
 # CCleaner
-127.0.0.1  analytics.ff.avast.com
-127.0.0.1  ipm-provider.ff.avast.com
-127.0.0.1  license.piriform.com
-127.0.0.1  shepherd.ff.avast.com.piriform.com
+127.0.0.1 analytics.ff.avast.com
+127.0.0.1 ipm-provider.ff.avast.com
+127.0.0.1 license.piriform.com
+127.0.0.1 shepherd.ff.avast.com.piriform.com
 
 # Other (Frequent matches).
 127.0.0.1 a.applvn.com
@@ -173,6 +178,7 @@
 127.0.0.1 expresswifi.com
 127.0.0.1 ezoic.net
 127.0.0.1 fabric.io
+127.0.0.1 fireball.mipn-solutions.net
 127.0.0.1 firebaseremoteconfig.googleapis.com
 127.0.0.1 firefox.settings.services.mozilla.com
 127.0.0.1 foursquare.com
@@ -238,7 +244,9 @@
 127.0.0.1 telemetry.sdk.inmobi.com
 127.0.0.1 torvind.com
 127.0.0.1 tredman.com
+127.0.0.1 u.startup.mobile.webvisor.com
 127.0.0.1 ucounter.ucoz.net
+127.0.0.1 up1-cdn-tech.net
 127.0.0.1 videopotok.pro
 127.0.0.1 vidroll.ru
 127.0.0.1 vidtok.ru

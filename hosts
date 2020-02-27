@@ -179,9 +179,11 @@
 127.0.0.1 crash-reports.mozilla.com
 127.0.0.1 crashlogs.whatsapp.net
 127.0.0.1 d.applvn.com
+127.0.0.1 d.d1tracker.ru
 127.0.0.1 dev.virtualearth.net
 127.0.0.1 dev503.prn2.facebook.com
 127.0.0.1 dl.zonainst.com
+127.0.0.1 dmd.digitaltarget.ru
 127.0.0.1 dock.inmobi.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 event-collector-etc.appspot.com
@@ -230,6 +232,7 @@
 127.0.0.1 news.smi2.ru
 127.0.0.1 notify.bugsnag.com
 127.0.0.1 openstat.net
+127.0.0.1 p.analytic.press
 127.0.0.1 p7.ntvk1.ru
 127.0.0.1 perf.mmstat.com
 127.0.0.1 platform.fatsecret.com

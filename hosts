@@ -77,6 +77,9 @@
 127.0.0.1 bs-meta.yandex.ru
 127.0.0.1 bs.yandex.ru
 127.0.0.1 button.blogs.yandex.net
+127.0.0.1 caldav-mob.yandex-team.ru
+127.0.0.1 caldav.yandex.ru
+127.0.0.1 cdn.aaacdn.net
 127.0.0.1 cid.yandex.net
 127.0.0.1 clck.yandex.ru
 127.0.0.1 informer.yandex.ru
@@ -86,7 +89,11 @@
 127.0.0.1 mobile.yandexadexchange.net
 127.0.0.1 mobileproxy-test.passport.yandex.net
 127.0.0.1 mobileproxy-yateam.passport.yandex.net
+127.0.0.1 s3.eu-central-1.amazonaws.com
 127.0.0.1 sba.yandex.net
+127.0.0.1 st-api.yandex-team.ru
+127.0.0.1 st.yandex-team.ru
+127.0.0.1 startup.mobile.webvisor.com
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 suggest.yandex.ru
 127.0.0.1 tech.yandex.com

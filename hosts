@@ -108,7 +108,6 @@
 0.0.0.0 st.top100.ru
 
 # Mail.ru
-0.0.0.0 r3.mail.ru
 0.0.0.0 top-fwz1.mail.ru
 
 # Social network
@@ -234,7 +233,6 @@
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 manifest.localytics.com
-0.0.0.0 map2.hwcdn.net
 0.0.0.0 map2.hwcdn.net
 0.0.0.0 maps.instagram.com
 0.0.0.0 med-api.admost.com

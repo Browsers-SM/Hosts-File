@@ -150,6 +150,7 @@
 0.0.0.0 acales.ru
 0.0.0.0 ad.myinstashot.com
 0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 admulti.com
 0.0.0.0 adnxs.com
 0.0.0.0 ads.mopub.com
@@ -162,6 +163,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
 0.0.0.0 applog.uc.cn
+0.0.0.0 applog.uc.cn
 0.0.0.0 b-api.facebook.com
 0.0.0.0 betnetmed.advertserve.com
 0.0.0.0 bgnmobi.com
@@ -169,6 +171,7 @@
 0.0.0.0 bitrix.info
 0.0.0.0 browser-updater.yandex.net
 0.0.0.0 bugsnag.com
+0.0.0.0 bytedance.map.fastly.net
 0.0.0.0 c.tbex.ru
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 cdn.adtags.pro
@@ -191,11 +194,14 @@
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 d.applvn.com
 0.0.0.0 d.d1tracker.ru
+0.0.0.0 dc1-st.ksn.kaspersky-labs.com
+0.0.0.0 dc1.ksn.kaspersky-labs.com
 0.0.0.0 dev.virtualearth.net
 0.0.0.0 dev503.prn2.facebook.com
 0.0.0.0 digitalassetlinks.googleapis.com
 0.0.0.0 dl.zonainst.com
 0.0.0.0 dmd.digitaltarget.ru
+0.0.0.0 dnl-08.geo.kaspersky.com
 0.0.0.0 dock.inmobi.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 event-collector-etc.appspot.com
@@ -222,8 +228,10 @@
 0.0.0.0 graph.whatsapp.net
 0.0.0.0 gs.symcd.com
 0.0.0.0 h-adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 i.addmob.info
+0.0.0.0 i.isnssdk.com
 0.0.0.0 i.l.inmobicdn.cn
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.w.inmobi.com
@@ -233,6 +241,12 @@
 0.0.0.0 jsc.traffic-media.co
 0.0.0.0 jsn.24smi.net
 0.0.0.0 jsn.lentainform.com
+0.0.0.0 ksn-a-stat-geo.kaspersky-labs.com
+0.0.0.0 ksn-cinfo-geo.kaspersky-labs.com
+0.0.0.0 ksn-cinfo.geoksn.kaspersky.com
+0.0.0.0 ksn-dc1-st.geoksn.kaspersky.com
+0.0.0.0 ksn-dc1.geoksn.kaspersky.com
+0.0.0.0 ksn-info-geo.kaspersky-labs.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 location.services.mozilla.com
@@ -258,6 +272,7 @@
 0.0.0.0 px.moatads.com
 0.0.0.0 r.analytic.press
 0.0.0.0 rarenok.biz
+0.0.0.0 reports.crashlytics.com
 0.0.0.0 rot.spotsniper.ru
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rt.applvn.com

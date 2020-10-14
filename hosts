@@ -91,6 +91,7 @@
 0.0.0.0 mobile.yandexadexchange.net
 0.0.0.0 mobileproxy-test.passport.yandex.net
 0.0.0.0 mobileproxy-yateam.passport.yandex.net
+0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 s3.eu-central-1.amazonaws.com
 0.0.0.0 sba.yandex.net
 0.0.0.0 st-api.yandex-team.ru
@@ -251,6 +252,8 @@
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 log-va.tiktokv.com
+0.0.0.0 log.tiktokv.com
 0.0.0.0 lookaside.facebook.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 map2.hwcdn.net

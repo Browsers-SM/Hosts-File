@@ -140,6 +140,10 @@
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 license.piriform.com
 0.0.0.0 shepherd.ff.avast.com.piriform.com
+# Viber
+0.0.0.0 ads-d.viber.com
+0.0.0.0 ads.aws.viber.com
+0.0.0.0 ads.viber.com
 
 # Other (Frequent matches).
 0.0.0.0 205.185.216.10
@@ -157,7 +161,9 @@
 0.0.0.0 am15.net
 0.0.0.0 analytics.mopub.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 api.mixpanel.com
 0.0.0.0 api.onesignal.com
+0.0.0.0 api.taboola.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
 0.0.0.0 applog.uc.cn
@@ -257,6 +263,7 @@
 0.0.0.0 maps.instagram.com
 0.0.0.0 med-api.admost.com
 0.0.0.0 mediametrics.ru
+0.0.0.0 mediation.adnxs.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 native.propellerclick.com
@@ -280,6 +287,8 @@
 0.0.0.0 ru.foursquare.com
 0.0.0.0 rutarget.ru
 0.0.0.0 rutrk.org
+0.0.0.0 s-bid.rmp.rakuten.com
+0.0.0.0 s-imp.rmp.rakuten.com
 0.0.0.0 s.admulti.com
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s3.ap-south-1.amazonaws.com

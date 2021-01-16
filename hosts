@@ -148,6 +148,7 @@
 # Other (Frequent matches).
 0.0.0.0 205.185.216.10
 0.0.0.0 a.applvn.com
+0.0.0.0 a.realsrv.com
 0.0.0.0 a.republer.com
 0.0.0.0 acales.ru
 0.0.0.0 ad.myinstashot.com
@@ -156,6 +157,7 @@
 0.0.0.0 admulti.com
 0.0.0.0 adnxs.com
 0.0.0.0 ads.mopub.com
+0.0.0.0 ads.realsrv.com
 0.0.0.0 adservice.google.com
 0.0.0.0 advertising.com
 0.0.0.0 am15.net
@@ -258,6 +260,7 @@
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 lookaside.facebook.com
+0.0.0.0 main.realsrv.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 map2.hwcdn.net
 0.0.0.0 maps.instagram.com
@@ -305,7 +308,9 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.h-bid.com
 0.0.0.0 sync-eu.connectad.io
+0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exosrv.com
+0.0.0.0 syndication.realsrv.com
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 target.smi2.net
 0.0.0.0 telemetry.sdk.inmobi.com

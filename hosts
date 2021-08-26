@@ -144,6 +144,10 @@
 0.0.0.0 ads-d.viber.com
 0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.viber.com
+# AOMEI
+0.0.0.0 www.aomeitech.com
+# Hot Virtual Keyboard
+0.0.0.0 hot-virtual-keyboard.com
 
 # Other (Frequent matches).
 0.0.0.0 205.185.216.10
@@ -338,3 +342,42 @@
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 z.moatads.com
 0.0.0.0 zvooq.com
+
+# TEST
+0.0.0.0 adclick.g.doublecklick.net
+0.0.0.0 ads-west-colo.adsymptotic.com
+0.0.0.0 adserver.adtechus.com
+0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 b.scorecardresearch.com
+0.0.0.0 bounceexchange.com
+0.0.0.0 bs.serving-sys.com
+0.0.0.0 content.bitsontherun.com
+0.0.0.0 core.insightexpressai.com
+0.0.0.0 d2gi7ultltnc2u.cloudfront.net
+0.0.0.0 d361oi6ppvq2ym.cloudfront.net
+0.0.0.0 d3rt1990lpmkn.cloudfront.net
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 gads.pubmatic.com
+0.0.0.0 geo3.ggpht.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 gtssl2-ocsp.geotrust.com
+0.0.0.0 idsync-ext.rlcdn.com
+0.0.0.0 js.moatads.com
+0.0.0.0 media-match.com
+0.0.0.0 na.gmtdmp.com
+0.0.0.0 omaze.com
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 showads33000.pubmatic.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 v.jwpcdn.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+0.0.0.0 weblb-wg.gslb.spotify.com
+0.0.0.0 www.googletagservices.com 
+0.0.0.0 www.omaze.com

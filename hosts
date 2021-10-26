@@ -162,8 +162,6 @@
 # PotPlayer
 0.0.0.0 adverweb.cjenm.com
 0.0.0.0 videofarm.daum.net
-# Spotify
-0.0.0.0 weblb-wg.gslb.spotify.com
 
 # Other (Frequent matches).
 0.0.0.0 205.185.216.10

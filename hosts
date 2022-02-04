@@ -157,6 +157,7 @@
 0.0.0.0 fabric.io
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 ib.adnxs.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 yadro.ru

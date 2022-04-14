@@ -154,6 +154,9 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 
 # Other (Frequent matches).
+0.0.0.0 adriver.ru
+0.0.0.0 click.autous.ru
+0.0.0.0 counter.yadro.ru
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 e.crashlytics.com
 0.0.0.0 fabric.io
@@ -162,4 +165,6 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 tns-counter.ru
+0.0.0.0 yadro.com
 0.0.0.0 yadro.ru
